@@ -1,9 +1,9 @@
 # Leveraging modern quantitative tools to improve wildlife decision support products for natural resources agencies
 
 **Author:** Jennifer Stenglein
-**Date:** 2025-02-26
+**Date:** 2025-02-27
 
-The data files and code in this repository accompany the analyses in Stenglein, J. L., Bemowski, R., Storm, D. J., and D. MacFarland. Leveraging modern quantitative tools to improve wildlife decision support products for natural resources agencies. 
+The data files and code in this repository accompany the analyses in Stenglein, J. L., Bemowski, R., Storm, D. J., Anhalt-Depies, C., and D. MacFarland. Leveraging modern quantitative tools to improve wildlife decision support products for natural resources agencies. 
 
 ## Vignette 1: Winter severity index (WSI) using publicly-available NOAA data for use in spatial interpolation
 
